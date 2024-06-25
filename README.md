@@ -1,3 +1,13 @@
+Deployed
+
+![Screenshot 2024-06-25 202952](https://github.com/vicky008official/Payment_gateway/assets/134616647/ee777872-b13a-4a05-9205-1c8d82944d96)
+![Screenshot 2024-06-25 202438](https://github.com/vicky008official/Payment_gateway/assets/134616647/060c63ec-551d-4b8b-aa6a-27c49c5b7132)
+![Screenshot 2024-06-25 202540](https://github.com/vicky008official/Payment_gateway/assets/134616647/c4500b0f-89ee-4a7f-9444-722b2fceb84f)
+![Screenshot 2024-06-25 202932](https://github.com/vicky008official/Payment_gateway/assets/134616647/198ff3e9-9aa2-403a-8eea-aa8bfcabbfe7)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
